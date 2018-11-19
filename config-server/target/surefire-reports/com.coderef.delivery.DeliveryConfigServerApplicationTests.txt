@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.coderef.delivery.DeliveryConfigServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.873 sec - in com.coderef.delivery.DeliveryConfigServerApplicationTests

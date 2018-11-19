@@ -1,0 +1,12 @@
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\config\WebSecurityConfig.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\domain\Authorities.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\repository\AuthorityRepository.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\config\ResourceServerConfiguration.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\service\UserDetailsService.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\config\CorsFilterConfiguration.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\repository\UserRepository.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\controller\AuthController.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\model\Authority.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\model\User.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\config\AuthorizationServerConfiguration.java
+C:\Users\babiz\Desktop\delivery-master\delivery-auth-server\src\main\java\com\coderef\delivery\DeliveryAuthServerApplication.java

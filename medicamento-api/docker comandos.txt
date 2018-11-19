@@ -1,0 +1,15 @@
+clear package
+docker build -t app-farmacia .
+docker network create my-network
+docker run --network=my-network -p 3306:3306 --name memories -e MYSQL_ROOT_PASSWORD=root -d mysql:5.6
+docker run --network=my-network -p 8080:8080 -it -d app-medicamento
+
+docker-compose
+docker-compose up -d
+docker-compose ps
+docker-compose stop $(docker-compose ps -a -q)
+
+
+C:\Users\babiz\farmacia-solidaria --> front
+
+docker build -t delivery-auth-server .
